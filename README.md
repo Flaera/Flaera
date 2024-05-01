@@ -14,11 +14,12 @@
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flaera&theme=vision-friendly-dark&layout=compact">
 </div>
 
-## Meu repo que amo 💜
+## Meus repos que amo 💜
 <div align="center">
   <a href="github.com/Flaera/MFRG">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flaera&repo=MFRG&theme=vision-friendly-dark&show_owner=true">
+  <a href="https://github.com/Flaera/Escape_from_Polution">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flaera&repo=Escape_from_Polution&theme=vision-friendly-dark&show_owner=true">
 </div>
-
 
   
