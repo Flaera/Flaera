@@ -17,9 +17,9 @@
 ## Meus repos que amo 💜
 <div align="center">
   <a href="https://github.com/Flaera/MFRG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flaera&repo=MFRG&theme=vision-friendly-dark&show_owner=true">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=Flaera&repo=MFRG&theme=vision-friendly-dark&show_owner=true">
   <a href="https://github.com/Flaera/Escape_from_Polution">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flaera&repo=Escape_from_Polution&theme=vision-friendly-dark&show_owner=true">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=Flaera&repo=Escape_from_Polution&theme=vision-friendly-dark&show_owner=true">
 </div>
 
   
