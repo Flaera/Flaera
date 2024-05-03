@@ -5,7 +5,7 @@
 - 🌱 Estou aprendendo sobre meu trabalho para conhecer ferramentas novas e evoluir as atuais.
 - 👯 Estou procurando colaborar com marxismo, conscientização social sobre marxismo e divulgação científica.
 - 💬 Pergunte sobre tudo! Amarei aprender contigo.
-- 😄 Pronomes: ele/dela.
+- 😄 Pronomes: ele/dele.
   
 ## Meus status aqui 📃
 <div align="center">
